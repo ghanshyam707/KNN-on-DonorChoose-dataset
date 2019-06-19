@@ -13,3 +13,5 @@ Then KNN is applied on all 4 datasets.<br>
 <b> Conclusion after applying KNN to all datasets </b><br>
 
 `KNN` is not able to distinguish between true positive and true negative. All the datapoints are predicted as Positive. 
+
+##### Credits : www.AppliedAICourse.com
